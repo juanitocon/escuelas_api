@@ -369,7 +369,7 @@ function InfoTab() {
       <h2>Información</h2>
       <p>Aplicación demo creada con React + Vite. API: <code>https://api.escuelajs.co/api/v1/products</code></p>
       <ul>
-        <li>Autor: Estudiante / Equipo</li>
+        <li>Autor: Juan Sebastian Herrera Piratoba</li>
         <li>Características esenciales: lista, filtro, búsqueda, favoritos (localStorage), detalle, pestaña original</li>
       </ul>
 
